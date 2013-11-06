@@ -5,10 +5,10 @@ table thead stick to up, jquery, bootstrap
 <a><span class="octicon octicon-link"></span>Usage</a>
 
 <pre><code>
-<script type="text/javascript" src="{$baseUrl}/js/modules/compositionFamily/compositionFamily.js"></script>
-<script type="text/javascript">
+&lt;script type="text/javascript" src="jquery.theadStiky.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" &gt;
 $(document).ready(function() {
 	$("table").theadSticky();
 });
-</script>
+&lt;/script&gt;
 </code></pre>
